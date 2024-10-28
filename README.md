@@ -5,14 +5,15 @@ asset :
     Sound :[FreeSFX](https://kronbits.itch.io/freesfx)
 
 
-game play :
+game play 
+
     main menu 
-    ![] (doc/Mainmenu.png)
+    ![](doc/Mainmenu.png)
     
     
     gameplay
-    ![] (doc/Gameplay.png)
+    ![](doc/Gameplay.png)
 
     
     gameover 
-    ![] (doc/Gameover.png)
+    ![](doc/Gameover.png)
