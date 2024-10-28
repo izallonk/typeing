@@ -1,4 +1,4 @@
-game made with [donburi](https://github.com/hajimehoshi/ebiten) and [ebiten](https://github.com/hajimehoshi/ebiten)
+game made with [donburi](https://github.com/yohamta/donburi) and [ebiten](https://github.com/hajimehoshi/ebiten)
 
 asset : 
 * Font : [PIXBOB LITE](https://www.dafont.com/pixbob-lite.font)
