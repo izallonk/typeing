@@ -7,12 +7,12 @@ asset :
 
 game play :
     main menu 
-    ![main menu] (https://github.com/kumisWasir/typeing/blob/master/doc/Mainmenu.png)
+    ![] (doc/Mainmenu.png)
     
     
     gameplay
-    ![gameplay] (https://github.com/kumisWasir/typeing/blob/master/doc/Gameplay.png)
+    ![] (doc/Gameplay.png)
 
     
     gameover 
-    ![gameover] (https://github.com/kumisWasir/typeing/blob/master/doc/Gameover.png)
+    ![] (doc/Gameover.png)
