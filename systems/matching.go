@@ -7,7 +7,7 @@ import (
 	"typespeed/components"
 	"typespeed/archtype"
 	"typespeed/events"
-	"strings"
+
 
 	
 )
@@ -35,9 +35,7 @@ func (m *Matching) Update(world donburi.World){
 			return
 		}
 		texttype := typeingtext.Word
-		if  strings.Contains(texttype,"_"){
-			 texttype = texttype[:len(texttype)-1]
-		}
+		
 		
 		wordtext := components.Text.Get(entry)
 		
